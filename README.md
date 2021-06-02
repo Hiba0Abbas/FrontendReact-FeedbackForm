@@ -20,3 +20,8 @@ To run the app in development:
 ```
 npm start
 ```
+<br/>
+Now, open http://localhost:3000 to view it in the browser.
+
+
+
